@@ -1,0 +1,8 @@
+create a cli app 
+
+TODO
+
+basic file search in current directory 
+recurresive file search
+
+
